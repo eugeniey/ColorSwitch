@@ -1,6 +1,6 @@
 # ColorSwitch
 
-Jeu à obstabcle dans le style de ''Color Switch'' appelé colorsWitch.
+** Jeu à obstabcle dans le style de «Color Switch» appelé colorsWitch. **
 S'exécute avec le fichier ColorsWitch.java où se trouve le main.
 
 Le joueur se déplace à l'aide du space bar et doit être de la même couleur que les obstacles afin de passer à travers ceux-ci. 
